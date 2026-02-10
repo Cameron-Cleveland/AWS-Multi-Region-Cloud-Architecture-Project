@@ -1,6 +1,6 @@
 # AWS Multi-Region Cloud Architecture Project
 
-> **End-to-end, production-style AWS architecture built across multiple labs using Terraform**
+**End-to-end, production-style AWS architecture built across multiple labs using Terraform**
 
 ## Overview
 

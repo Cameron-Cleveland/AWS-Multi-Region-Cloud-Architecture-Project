@@ -12,7 +12,7 @@ Rather than isolated exercises, the labs together form a **unified system** that
 
 ## High-Level Architecture
 
-![AWS Multi-Region Architecture Diagram](Lab 1/Lab 1a/screenshots/Armageddon-Class7-Diagram.jpeg)
+![AWS Multi-Region Architecture Diagram](Lab%201/Lab%201a/screenshots/Armageddon-Class7-Diagram.jpeg)
 
 At a high level, the project implements:
 
